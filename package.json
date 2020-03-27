@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tabs/DisabledTabs.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "@types/react": "^16.8.6",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
